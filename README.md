@@ -1,2 +1,4 @@
 # TheSqueezeFG
-This is a game that I made for a final project in my java class. Since then i have discovered multiple bugs but to fix them is too time consuming of a side project for this semester. However, I want to make better versions in the future along with some other games hopefully.
+This is a game that I made for a final project in my java class. Since then i have discovered multiple bugs but to fix them is too time consuming of a side project for this semester. However, I want to make better versions in the future along with some other games hopefully. This is a game based on a video series that my friends made in their first year of college. I got bored found a fandom my friend made for them, read it, and made a video game based on that. Here are links to those. To properly play this game remember to keep every file together in the same folder you download it. Sadly there will be a method telling you that something went wrong. That's the background music I couldn't upload to github.
+Youtube Vid: https://youtu.be/JRh9_gPsRUM
+Fandom: https://the-squeeze-epic-series.fandom.com
